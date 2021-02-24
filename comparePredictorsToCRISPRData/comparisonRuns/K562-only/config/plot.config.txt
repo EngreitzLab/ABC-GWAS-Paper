@@ -1,0 +1,2 @@
+plot.name	pred.cols
+ABC	JEME.jeme_score,TargetFinder.TargetFinder_prediction,Roadmap.ConfidenceScore,EnhancerAtlas2.EAGLE_score,ABC.ABC.Score,hardcode.distance,closestGene.EachGeneIsRegulatedByClosestEnhancer,closestEnhancer.EachEnhRegulatesClosestGene,Rao2014Loop.Rao2014.Loop,Rao2014TAD.Rao2014.TAD
