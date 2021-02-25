@@ -1,0 +1,5 @@
+chrPerturbationTarget	startPerturbationTarget	endPerturbationTarget	GeneSymbol	startTSS	endTSS	CellType	Significant	Regulated	EffectSize	IncludeInModel	ABC.ABC.Score	ABC.distance	ABC.activity_base	hardcode.distance	scatterplot.color	ABC.ABC.Score.pred.class	hardcode.distance.pred.class
+chr1	109817590	109817590	PSMA5	109969070	109969070	PrimaryHepatocytes	FALSE	FALSE	0	TRUE	0.019124	151702	8.13196	151480	Not Significant	TN	FP
+chr1	109817590	109817590	PSRC1	109825790	109825790	PrimaryHepatocytes	TRUE	TRUE	-0.201249725	TRUE	0.054188	8422	8.13196	8200	Activating	TP	TP
+chr1	109817590	109817590	SARS	109756514	109756514	PrimaryHepatocytes	FALSE	FALSE	-0.029536446	TRUE	0.018549	60854	8.13196	61076	Not Significant	TN	FP
+chr1	109817590	109817590	SORT1	109935979	109935979	PrimaryHepatocytes	TRUE	TRUE	-0.10613301	TRUE	0.047508	123199	8.13196	118389	Activating	FN	TP

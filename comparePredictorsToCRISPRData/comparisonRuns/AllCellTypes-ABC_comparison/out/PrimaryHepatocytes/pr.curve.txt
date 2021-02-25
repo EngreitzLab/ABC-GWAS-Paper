@@ -1,0 +1,11 @@
+alpha	precision	recall	pred.col	F1
+Inf	NA	0	ABC.ABC.Score	NA
+0.054188	1	0.5	ABC.ABC.Score	0.666666666666667
+0.047508	1	1	ABC.ABC.Score	1
+0.019124	0.666666666666667	1	ABC.ABC.Score	0.8
+0.018549	0.5	1	ABC.ABC.Score	0.666666666666667
+Inf	NA	0	hardcode.distance	NA
+-8200	1	0.5	hardcode.distance	0.666666666666667
+-61076	0.5	0.5	hardcode.distance	0.5
+-118389	0.666666666666667	1	hardcode.distance	0.8
+-151480	0.5	1	hardcode.distance	0.666666666666667

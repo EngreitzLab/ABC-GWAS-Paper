@@ -1,0 +1,2 @@
+numConnections	numIncludeInModel	numIncludeInModelRegulated
+5093	3854	103
