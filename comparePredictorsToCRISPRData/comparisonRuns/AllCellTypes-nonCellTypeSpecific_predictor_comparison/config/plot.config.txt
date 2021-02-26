@@ -1,0 +1,2 @@
+plot.name	pred.cols
+nonCellSpecific	Granja2019.CorrelationCancer,Granja2019.CorrelationHealthy,Granja2019.PvalCancer,Granja2019.PvalHealthy,Sheffield2013.pval,Sheffield2013.cor,Fishilevich2017.GeneHancer.value,ENCODE2012.ENCODE2012.score,Andersson2014.Andersson2014.score,hardcode.distance

@@ -1,0 +1,6 @@
+name	path
+Granja2019	../../predictions/Other/Granja2019-EnhancerGeneLinks.JN.bedpe.gz
+Sheffield2013	../../predictions/Other/Sheffield2013-EnhancerGeneLinks.JN.bedpe.gz
+Fishilevich2017	../../predictions/Other/Fishilevich2017-EnhancerGeneLinks.JN.bedpe.gz
+ENCODE2012	../../predictions/Other/ENCODE2012.e2g.bedpe.gz
+Andersson2014	../../predictions/Other/Andersson2014.e2g.bedpe.gz
