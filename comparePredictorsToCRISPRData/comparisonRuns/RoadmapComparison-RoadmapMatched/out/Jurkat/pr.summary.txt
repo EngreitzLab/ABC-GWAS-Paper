@@ -1,0 +1,4 @@
+predictor	min.sensitivity	cutoff	AUPRC	maxF1
+Roadmap.ConfidenceScore	0.7	0	NA	0.25
+ABC.ABC.Score	0.7	0.020983	0.378369552949385	0.588235294117647
+hardcode.distance	0.7	-57979	0.422853661181187	0.666666666666667

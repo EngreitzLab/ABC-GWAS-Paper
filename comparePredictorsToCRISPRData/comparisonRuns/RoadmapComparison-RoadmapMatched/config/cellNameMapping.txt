@@ -1,0 +1,6 @@
+to	from
+K562	BLD.K562.CNCR,K562_Leukemia,K562-Roadmap
+THP1	CD14-positive_monocytes-Roadmap,Monocytes-CD14+_RO01746
+BJAB	CD19-positive_B_cell-Roadmap,CD19_Primary_Cells_Peripheral_UW
+Jurkat	CD3-positive_T_cell-Roadmap,CD3_Primary_Cells_Peripheral_UW
+GM12878	GM12878-Roadmap,GM12878_Lymphoblastoid

@@ -1,0 +1,2 @@
+name	path
+ABC	/seq/lincRNA/RAP/ABC/191216_ABC/ABC_out/K562-Roadmap/Predictions_AvgHiC/EnhancerPredictionsAllPutative.bedpe.gz,/seq/lincRNA/RAP/ABC/191216_ABC/ABC_out/GM12878-Roadmap/Predictions_AvgHiC/EnhancerPredictionsAllPutative.bedpe.gz,/seq/lincRNA/RAP/ABC/191216_ABC/ABC_out/BJAB-Engreitz/Predictions_AvgHiC/EnhancerPredictionsAllPutative.bedpe.gz,/seq/lincRNA/RAP/ABC/191216_ABC/ABC_out/Jurkat-Engreitz/Predictions_AvgHiC/EnhancerPredictionsAllPutative.bedpe.gz,/seq/lincRNA/RAP/ABC/191216_ABC/ABC_out/THP1-Engreitz/Predictions_AvgHiC/EnhancerPredictionsAllPutative.bedpe.gz

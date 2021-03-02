@@ -1,0 +1,2 @@
+plot.name	pred.cols
+ABC	ABC.ABC.Score,ABC.Matched.ABC.Score,ABC.Matched.QuantPCHiC.ABC.Score,hardcode.distance,PCHiC.Javierre.score

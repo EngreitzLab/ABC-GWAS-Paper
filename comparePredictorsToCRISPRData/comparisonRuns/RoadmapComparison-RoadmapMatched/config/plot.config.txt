@@ -1,0 +1,2 @@
+plot.name	pred.cols
+ABC	Roadmap.ConfidenceScore,ABC.ABC.Score,hardcode.distance

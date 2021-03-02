@@ -1,0 +1,11 @@
+to	from
+K562	BLD.K562.CNCR,K562_Leukemia,K562-Roadmap
+GM12878	GM12878-Roadmap,GM12878-ENCODE
+PrimaryHepatocytes	liver-ENCODE
+BJAB	BJAB-Engreitz
+BJAB_anti-IgM_anti-CD40_4hr	BJAB_anti-IgM_anti-CD40_4hr-Engreitz
+Jurkat	Jurkat-Engreitz
+Jurkat_anti-CD3_PMA_4hr	Jurkat_anti-CD3_PMA_4hr-Engreitz
+THP1	THP1-Engreitz
+THP1_LPS_4hr	THP1_LPS_4hr-Engreitz
+

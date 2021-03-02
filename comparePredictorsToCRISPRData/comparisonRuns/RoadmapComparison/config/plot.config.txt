@@ -1,0 +1,2 @@
+plot.name	pred.cols
+ABC	ABC.ABC.Score,hardcode.distance,closestGene.EachGeneIsRegulatedByClosestEnhancer,closestEnhancer.EachEnhRegulatesClosestGene

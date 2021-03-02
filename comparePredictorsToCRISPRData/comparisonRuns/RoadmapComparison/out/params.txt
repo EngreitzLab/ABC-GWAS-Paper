@@ -1,0 +1,10 @@
+predictions	config/pred.table.listing.txt
+experimentalData	experimentalData/experimentalData.RoadmapComparison.txt
+experimentalPositiveColumn	Regulated
+plotConfig	config/plot.config.txt
+predConfig	../../config/pred.config.txt
+cellNameMapping	config/cellNameMapping.txt
+ignoreExptMissingPredictions	FALSE
+outDir	out/
+code	../../code/comparison.R
+help	FALSE
