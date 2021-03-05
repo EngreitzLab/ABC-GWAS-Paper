@@ -1,6 +1,6 @@
 alpha	precision	recall	pred.col	F1
 Inf	NA	0	Roadmap.ConfidenceScore	NA
-9.199	1	0.0555555555555556	Roadmap.ConfidenceScore	0.105263157894737
+11.086	1	0.0555555555555556	Roadmap.ConfidenceScore	0.105263157894737
 5.349	1	0.111111111111111	Roadmap.ConfidenceScore	0.2
 3.748	1	0.166666666666667	Roadmap.ConfidenceScore	0.285714285714286
 0	0.257142857142857	1	Roadmap.ConfidenceScore	0.409090909090909
