@@ -1,11 +1,11 @@
 name	path
-closestGene	../../predictions/K562.closestEnhancerToEachExpressedGene.bedpe.gz
-closestEnhancer	../../predictions/K562.closestExpressedGeneToEachEnhancer.bedpe.gz
-JEME	../../predictions/Cao2017-JEME.bedpe.gz
-TargetFinder	../../predictions/TargetFinder.bedpe.gz
-Roadmap	../../predictions/Roadmap-Liu2017-EnhancerGeneLinksMerged.OnlyCRISPRGenes.tsv.gz
-EnhancerAtlas2	../../predictions/Gao2020-EnhancerGeneLinks.K562only.bedpe.gz
-ABC	../../predictions/ABC.K562-Roadmap.AvgHiC.EnhancerPredictionsAllPutative.OnlyCRISPRGenes.bedpe.gz
-Rao2014Loop	../../predictions/Rao2014-Loop-K562.bedpe.gz
-Rao2014TAD	../../predictions/Rao2014-TAD-K562.bedpe.gz
+closestGene	../../predictions/Other/K562.closestEnhancerToEachExpressedGene.bedpe.gz
+closestEnhancer	../../predictions/Other/K562.closestExpressedGeneToEachEnhancer.bedpe.gz
+JEME	../../predictions/Other/Cao2017-JEME.bedpe.gz
+TargetFinder	../../predictions/Other/TargetFinder.bedpe.gz
+Roadmap	../../predictions/Other/Roadmap-Liu2017-EnhancerGeneLinksMerged.OnlyCRISPRGenes.tsv.gz
+EnhancerAtlas2	../../predictions/Other/Gao2020-EnhancerGeneLinks.K562only.bedpe.gz
+ABC	../../predictions/ABC/ABC.K562-Roadmap.AvgHiC.EnhancerPredictionsAllPutative.OnlyCRISPRGenes.bedpe.gz
+Rao2014Loop	../../predictions/Other/Rao2014-Loop-K562.bedpe.gz
+Rao2014TAD	../../predictions/Other/Rao2014-TAD-K562.bedpe.gz
 

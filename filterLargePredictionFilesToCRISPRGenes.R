@@ -46,11 +46,16 @@ roadmap.links.neededForPaper <- subset(roadmap.links, (CellType == 'K562_Leukemi
                                          (CellType == 'CD3_Primary_Cells_Peripheral_UW' & GeneSymbol %in% unique(subset(all.cell.expt, CellType == 'Jurkat')$GeneSymbol)) | #Jurkat
                                          (CellType == 'GM12878_Lymphoblastoid' & GeneSymbol %in% unique(subset(all.cell.expt, CellType == 'GM12878')$GeneSymbol)) #GM
                                        )
-write.table(roadmap.links.neededForPaper, "/seq/lincRNA/RAP/GWAS/210223_ABCGWASPaper_github/ABC-GWAS-Paper/comparePredictorsToCRISPRData/predictions/Roadmap-Liu2017-EnhancerGeneLinksMerged.OnlyCRISPRGenes.tsv",
+write.table(roadmap.links.neededForPaper, "/seq/lincRNA/RAP/GWAS/210223_ABCGWASPaper_github/ABC-GWAS-Paper/comparePredictorsToCRISPRData/predictions/Other/Roadmap-Liu2017-EnhancerGeneLinksMerged.OnlyCRISPRGenes.tsv",
             sep = '\t', quote = F, col.names = T, row.names = F)
 
 subset(roadmap.links, CellType == 'K562_Leukemia' & GeneSymbol == 'HBE1' & abs(startElement - 5497365) < 1000 )
 subset(roadmap.links.neededForPaper, CellType == 'K562_Leukemia' & GeneSymbol == 'HBE1' & abs(startElement - 5497365) < 1000 )
+
+
+subset(roadmap.links, CellType == 'K562_Leukemia' & GeneSymbol == 'HBE1' & abs(startElement - 5279785) < 1000 )
+subset(roadmap.links.neededForPaper, CellType == 'K562_Leukemia' & GeneSymbol == 'HBE1' & abs(startElement - 5279785) < 1000 )
+
 
 #Roadmap
 roadmap.expt <- fread('/seq/lincRNA/RAP/GWAS/210223_ABCGWASPaper_github/ABC-GWAS-Paper/comparePredictorsToCRISPRData/comparisonRuns/RoadmapComparison-RoadmapMatched/experimentalData/experimentalData.RoadmapComparison-RoadmapMatched.txt')
