@@ -8,8 +8,9 @@ cd ABC-GWAS-Paper/ABC-Max/
 conda env create --file abc-max.yml
 conda activate abc-max
 
-## Fetch needed data files
-wget --no-parent  -r http://mitra.stanford.edu/kundaje/projects/ABC_links/GWAS_test/Test_data/
+## Fetch needed data files and if needed, rename the directory
+wget --cut-dirs 4 -r ftp://ftp.broadinstitute.org/outgoing/lincRNA/Nasser2020/data/
+mv ftp.broadinstitute.org data
 
 ## Run snakemake pipeline
 snakemake --snakefile snakemake/ABC-Max.snakefile \
