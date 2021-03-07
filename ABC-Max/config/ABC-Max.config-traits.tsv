@@ -1,0 +1,2 @@
+entry	dir	varList	csList	varFilterCol	varScoreType	varFilterThreshold	knownGenes
+IBD	data/Huang2017-IBD/CredibleSets/	data/Huang2017-IBD/CredibleSets/IBDCombined.set1-2.variant.list.txt	data/Huang2017-IBD/CredibleSets/IBDCombined.set1-2.cs.txt	PosteriorProb	PP	0.1	data/GeneLists.IBD.txt
