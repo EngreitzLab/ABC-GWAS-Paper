@@ -1,4 +1,6 @@
-# Example bash command list for setting up a project and running the pipeline
+# ABC-Max code
+Example bash command list for setting up a project and running the pipeline to reproduce ABC-Max calculations for IBD
+Questions: Contact Jesse Engreitz at engreitz@stanford.edu
 
 ## Check out the project
     git clone git@github.com:EngreitzLab/ABC-GWAS-Paper.git
