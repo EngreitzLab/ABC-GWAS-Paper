@@ -1,0 +1,20 @@
+{
+    "projectDir": "./",
+    "codeDir": "src/",
+    "logDir": "log/",
+    "outDir": "analysis/",
+    "chrSizes": "data/sizes",
+    "CDS": "data/GeneCDS.bed",
+    "bgVariants": "data/all.bg.SNPs.bed.gz",
+    "tssFile": "data/RefSeqCurated.170308.bed.CollapsedGeneBounds.TSS500bp.bed",
+
+    "predictorOfChoice": "ABC",
+    "predictionsTable":"config/ABC-Max.config-preds.tsv",
+    "traitTable":"config/ABC-Max.config-traits.tsv",
+    "predictions": [
+       "ABC"
+    ],
+    "traits": [
+        "IBD"
+        ]
+}
