@@ -1,5 +1,5 @@
 to	from
 BJAB	BJAB-Engreitz,tB,CD19-positive_B_cell-Roadmap
 THP1	THP1-Engreitz,mon,CD14-positive_monocytes-Roadmap
-Jurkat	Jurkat-Engreitz,tCD4,CD3-positive_T_cell-Roadmap
+Jurkat	Jurkat-Engreitz,aCD4,CD3-positive_T_cell-Roadmap
 K562	K562-Roadmap,Ery,erythroblast-Corces2016
